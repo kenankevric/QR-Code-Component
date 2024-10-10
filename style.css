@@ -9,8 +9,18 @@ body  {
 .card {
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
+    margin: 0 auto;
+    width: 20%;
+    padding: 10px 10px 25px 10px
 }
-    
+
+img {
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+
+
 h1 {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
@@ -22,5 +32,11 @@ p {
     font-weight: 400;
 }
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%);}
+.attribution { 
+    font-size: 11px;
+    margin-top: 50px;
+    text-align: center;}
+
+    .attribution a { 
+        color: hsl(228, 45%, 44%);
+    }

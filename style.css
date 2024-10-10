@@ -9,7 +9,7 @@ body  {
 .card {
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
-    margin: 0 auto;
+    margin: 4rem auto;
     width: 25%;
     padding: 10px 10px 50px 10px
 }
